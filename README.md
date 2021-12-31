@@ -40,8 +40,6 @@ Here are some ideas to get you started:
   <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
-<br/>
-<br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/code.gif">
 </a>
