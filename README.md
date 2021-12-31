@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
+<br/>
+<br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/code.gif">
 </a>
@@ -51,3 +53,11 @@ Here are some ideas to get you started:
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Dharm3438/Dharm3438/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
+
+<br/>
+<br/>
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharm3438&theme=dark&hide_border=true"/>
+  </a>
+</p>
