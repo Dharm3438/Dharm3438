@@ -31,8 +31,6 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/code.gif">
 </a>
 
-<br />
-
 - 🔭 I'm currently working on **Web Development and Data Science**
 - 🌱 Im currently learning **ReactJS & NodeJS**
 - 👯 Im looking to collaborate on any **Open - Source contribution**
