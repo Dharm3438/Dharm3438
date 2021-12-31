@@ -33,7 +33,7 @@
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **ReactJS & NodeJS**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 with any **Open - Source contribution**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 on any **Open - Source contribution**
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Dharm3438/Dharm3438/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
@@ -50,19 +50,24 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharm3438&theme=dark&hide_border=true"/>
   </a>
 </p>
+<br />
+<br />
 
 #
-<br />
-<br />
+
 
 <!-- Github Stats -->
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
 
+
+<h2>
+  Github Stats 
+  <a target="_blank">
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png" height="25px" style="max-width:100%;">
+  </a>
+</h2>
+
+<br>
+<div>
 <p align="center">
   <a href="https://github.com/Dharm3438">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dharm3438&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -71,7 +76,8 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharm3438&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-</details>
+</div>
+
 <br>
 <br/>
 
@@ -148,9 +154,13 @@
     </a>
   </div>
 
+
 <!-- Connect Section -->
 <br />
 <br />
+
+#
+
 <h2>
   Connect With Me
   <a target="_blank">
@@ -177,6 +187,7 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="dharm3438"/>
     </a>
   </div>
+<br/>
 <br/>
 
 
