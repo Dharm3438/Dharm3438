@@ -53,12 +53,10 @@
 <br />
 <br />
 
-#
+
 
 
 <!-- Github Stats -->
-
-
 <h2>
   Github Stats 
   <a target="_blank">
@@ -78,7 +76,7 @@
 </p>
 </div>
 
-<br>
+<br/>
 <br/>
 
 <!-- Language and tools Section -->
@@ -159,7 +157,7 @@
 <br />
 <br />
 
-#
+
 
 <h2>
   Connect With Me
