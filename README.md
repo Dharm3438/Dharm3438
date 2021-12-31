@@ -79,7 +79,7 @@
 <h2>
   Languages and Tools
   <a target="_blank">
-    <img src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="25px" style="max-width:100%;">
   </a>
 </h2>
 <div align="center">
@@ -177,7 +177,6 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="dharm3438"/>
     </a>
   </div>
-<br/>
 <br/>
 
 
