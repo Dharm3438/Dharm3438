@@ -3,7 +3,7 @@
   <a target="_blank">
     <img src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt; Developers /&gt;!
+  <b>Hello,</b> &lt; Developers /&gt;!
   <a target="_blank">
     <img src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/Hi.gif" width="40px" />
   </a>
@@ -31,11 +31,13 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/code.gif">
 </a>
 
+<br />
+
 - 🔭 I'm currently working on **Web Development and Data Science**
 - 🌱 Im currently learning **ReactJS & NodeJS**
 - 👯 Im looking to collaborate on any **Open - Source contribution**
 - 🤔 Im looking for help with **Internships**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Dharm3438/Dharm3438/issues/1) ! I am happy to help.
+- 💬 Ask Me About Anything [here](https://github.com/Dharm3438/Dharm3438/issues/1) ! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **Best Part Of The Journey Is: *It Ends***
 <br/>
