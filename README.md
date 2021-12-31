@@ -37,7 +37,5 @@ Here are some ideas to get you started:
     <b>excel</b> <img src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-  <img src="" width="50" />
-  https://media.giphy.com/media/CNDcMMaeg5p04/giphy.gif
+  <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
