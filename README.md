@@ -39,7 +39,6 @@
 - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **Best Part Of The Journey Is: *It Ends***
 <br/>
-<br/>
 
 
 <!-- Streak Section -->
@@ -51,7 +50,7 @@
   </a>
 </p>
 <br />
-<br />
+
 
 <!-- Github Stats -->
 <h2>Github Stats 📊</h2>
@@ -94,7 +93,7 @@
 
 
 <br/>
-<br/>
+
 
 <!-- Language and tools Section -->
 <h2>
@@ -172,7 +171,7 @@
 
 <!-- Connect Section -->
 <br />
-<br />
+
 
 
 
