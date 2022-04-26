@@ -1,4 +1,6 @@
 <!-- Hello Section -->
+.
+
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
