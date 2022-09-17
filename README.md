@@ -38,7 +38,7 @@
 - 🤔 Im looking for help with **Placements**
 - 💬 Ask Me About Anything [here](https://github.com/Dharm3438/Dharm3438/issues/1) ! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
-- ⚡ Fun fact : **Rest at the end, Not in the middle**
+- ⚡ Fun fact : **Rest at the End, Not in the Middle**
 <br/>
 
 
