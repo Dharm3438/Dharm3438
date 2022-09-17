@@ -33,12 +33,12 @@
 </a>
 
 - 🔭 I'm currently working on **Web Development and Data Science**
-- 🌱 Im currently learning **ReactJS & NodeJS**
+- 🌱 Im currently learning **NodeJS**
 - 👯 Im looking to collaborate on any **Open - Source contribution**
-- 🤔 Im looking for help with **Internships**
+- 🤔 Im looking for help with **Placements**
 - 💬 Ask Me About Anything [here](https://github.com/Dharm3438/Dharm3438/issues/1) ! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
-- ⚡ Fun fact : **Best Part Of The Journey Is: *It Ends***
+- ⚡ Fun fact : **Rest at the end, Not in the middle**
 <br/>
 
 
