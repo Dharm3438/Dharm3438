@@ -16,8 +16,6 @@
 
 This is ME, Dharmesh Poladiya, a **full-stack developer** with **2 years of experience** in building robust applications using **React** and **Node.js**. 🚀
 
----
-
 ✨ Currently, I'm diving into **Generative AI, LLMs, LangChain, Hugging Face**, and **RAG applications** to build intelligent and innovative solutions. With a strong foundation in programming and a passion for exploring the latest technologies, I'm always looking for new challenges and **opportunities to make a real-world impact**.
 
 🔗 **Let’s Connect**! I’m eager to meet like-minded professionals and discover what we can build together in the realms of **AI** and **full-stack development**.
