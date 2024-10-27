@@ -12,7 +12,19 @@
 
 
 <!-- Intro Section -->
-<p align="center">
+<div align="center">
+
+This is ME, Dharmesh Poladiya, a **full-stack developer** with **2 years of experience** in building robust applications using **React** and **Node.js**. 🚀
+
+---
+
+✨ Currently, I'm diving into **Generative AI, LLMs, LangChain, Hugging Face**, and **RAG applications** to build intelligent and innovative solutions. With a strong foundation in programming and a passion for exploring the latest technologies, I'm always looking for new challenges and **opportunities to make a real-world impact**.
+
+🔗 **Let’s Connect**! I’m eager to meet like-minded professionals and discover what we can build together in the realms of **AI** and **full-stack development**.
+
+</div>
+
+<!-- <p align="center">
   <em>
     This is ME, Dharmesh Poladiya, a <b>final year</b> undergraduate from <b>Shah and Anchor Kutchhi Engineering College</b>, Mumbai</a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
@@ -22,7 +34,7 @@
   </em> 
   <br>
   <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
-</p>
+</p> -->
 <br/>
 <br/>
 
@@ -75,33 +87,15 @@
   </a>
 </h2>
 <div align="center">
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-      <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-        alt="c programming"/>
-    </a>
     <a href="https://www.python.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/python-377.svg?style=for-the-badge&logo=python&logoColor=yellow"
         alt="python"/> 
-    </a>
-    <a href="https://www.java.com" target="_blank"> 
-      <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-        alt="java"/> 
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
         alt="javascript"/> 
     </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-      <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-        alt="html5"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-        alt="css3"/>
-    </a>
-    
-  
-  <a href="https://getbootstrap.com" target="_blank">
+    <a href="https://getbootstrap.com" target="_blank">
       <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
         alt="bootstrap"/>
     </a>
@@ -163,14 +157,14 @@
     </a>
   </div>
   <div>
+    <a href="https://www.leetcode.com/dharm3438" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="dharm3438"/>
+    </a>
     <a  href="https://www.codechef.com/users/dharm3438" target="_blank">
       <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="dharm3438"/>
     </a>
     <a href="https://www.hackerrank.com/dharm3438" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="dharm3438"/>
-    </a>
-    <a href="https://www.leetcode.com/dharm3438" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="dharm3438"/>
     </a>
   </div>
 <br/>
