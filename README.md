@@ -53,6 +53,7 @@ This is ME, Dharmesh Poladiya, a **full-stack developer** with **2 years of expe
 
 
 <!-- Streak Section -->
+<!-- 
 #
 <br />
 <p align="center">
@@ -60,10 +61,11 @@ This is ME, Dharmesh Poladiya, a **full-stack developer** with **2 years of expe
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharm3438&theme=dark&hide_border=true"/>
   </a>
 </p>
-<br />
+<br /> -->
 
 
 <!-- Github Stats -->
+<!-- 
 <h2>Github Stats 📊</h2>
 
 
@@ -74,9 +76,9 @@ This is ME, Dharmesh Poladiya, a **full-stack developer** with **2 years of expe
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharm3438&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Dharmesh | Top Languages" />
 </a>
 <br>
-</p>
+</p> 
 
-<br/>
+<br/>  -->
 <!-- Language and tools Section -->
 <h2>
   Languages and Tools
@@ -135,10 +137,6 @@ This is ME, Dharmesh Poladiya, a **full-stack developer** with **2 years of expe
 
 <!-- Connect Section -->
 <br />
-
-
-
-
 <h2>
   Connect With Me
   <a target="_blank">
@@ -168,13 +166,10 @@ This is ME, Dharmesh Poladiya, a **full-stack developer** with **2 years of expe
 <br/>
 <br/>
 
-
 <!-- Footer Section -->
 <div align="center">
 
 ### Show some ❤ by starring some of the repositories!
 </div>
-
-
 
 ![footer](https://github.com/Dharm3438/Dharm3438/blob/main/GIF/footer.png)
