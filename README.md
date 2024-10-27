@@ -32,10 +32,10 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Dharm3438/Dharm3438/blob/main/GIF/code.gif">
 </a>
 
-- 🔭 I'm currently working on **Web Development and Data Science**
-- 🌱 Im currently learning **NodeJS**
+- 🔭 I'm currently working on **Generative AI**
+- 🌱 Im currently learning **AI Agents**
 - 👯 Im looking to collaborate on any **Open - Source contribution**
-- 🤔 Im looking for help with **Placements**
+- 🤔 Im looking for help with **Jobs**
 - 💬 Ask Me About Anything [here](https://github.com/Dharm3438/Dharm3438/issues/1) ! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **Rest at the End, Not in the Middle**
